@@ -1,0 +1,1 @@
+<view class="content data-v-615bb4cb" bind:__l="__l"><view class="_div data-v-615bb4cb"><image class="imgStyle _img data-v-615bb4cb" src="{{imgUrl}}" alt></image><button class="btnStyle data-v-615bb4cb" type="primary" data-event-opts="{{[['tap',[['changePic',['$event']]]]]}}" bindtap="__e">切换图片</button></view></view>
